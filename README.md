@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Blockchain and Criptocurrency
 - 🌱 I’m currently learning ... software engineer
 - 💞️ I’m looking to collaborate on ... Holberton school
-- 📫 How to reach me ...
+- 📫 3895@holbertonschool.com
 
 <!---
 Juansepo13/Juansepo13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
